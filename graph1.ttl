@@ -116,7 +116,7 @@ ex1:micrometre a                   ex1:Unit .
 ex1:micrometre ex1:quantityKind    ex1:length .
 ex1:micrometre ex1:name            "micrometre"@en .
 ex1:micrometre ex1:symbol          "μm" .
-ex1:micrometre ex1:oneEqualsOfBase 1000000 .
+ex1:micrometre ex1:oneEqualsOfBase 0.000001 .
 
 ex1:nanometre a                   ex1:Unit .
 ex1:nanometre ex1:quantityKind    ex1:length .
