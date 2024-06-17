@@ -123,3 +123,10 @@ ex2:millimetre ex2:quantityKind    ex2:length .
 ex2:millimetre ex2:name            "millimetre"@en .
 ex2:millimetre ex2:symbol          "mm" .
 ex2:millimetre ex2:oneEqualsOfBase 1000 .
+
+ex2:micrometre a                   ex2:Unit .
+ex2:micrometre ex2:quantityKind    ex2:length .
+ex2:micrometre ex2:name            "micrometre"@en .
+ex2:micrometre ex2:symbol          "μm" .
+ex2:micrometre ex2:oneEqualsOfBase 0.000001 .
+
