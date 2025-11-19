@@ -123,3 +123,10 @@ ex1:nanometre ex1:quantityKind    ex1:length .
 ex1:nanometre ex1:name            "nanometre"@en .
 ex1:nanometre ex1:symbol          "nm" .
 ex1:nanometre ex1:oneEqualsOfBase 0.000000001 .
+
+ex1:kilometre a                   ex1:Unit .
+ex1:kilometre ex1:quantityKind    ex1:length .
+ex1:kilometre ex1:name            "kilometre"@en .
+ex1:kilometre ex1:symbol          "km" .
+ex1:kilometre ex1:oneEqualsOfBase 0.001 .
+
