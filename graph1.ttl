@@ -130,3 +130,10 @@ ex1:kilometre ex1:name            "kilometre"@en .
 ex1:kilometre ex1:symbol          "km" .
 ex1:kilometre ex1:oneEqualsOfBase 0.001 .
 
+
+ex1:millimetre a                   ex1:Unit .
+ex1:millimetre ex1:quantityKind    ex1:length .
+ex1:millimetre ex1:name            "millimetre"@en .
+ex1:millimetre ex1:symbol          "mm" .
+ex1:millimetre ex1:oneEqualsOfBase 0.001 .
+
